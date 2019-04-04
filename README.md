@@ -3,3 +3,5 @@ Performed exploratory data analysis on various cryptocurrencies available in the
 determined the most valuable cryptocurrency and predicted bitcoin price in future through neural networks using LSTM
 (Long short-term memory) model. 
 Tools used - Sklearn,keras,pandas,matplotlib,numpy
+
+Open ipynb file for the entire code
